@@ -8,3 +8,5 @@
 ###### 2. 'Import pise' or 'python3 -i pise.py' and interact with the script and utilize the desired functions.
 ###### 3. Integrate with other task/jobs, such as employee onboarding or cleanup (endpoint/user deletetion).
 
+I am editing the README file. Adding some more details about the project description.
+
